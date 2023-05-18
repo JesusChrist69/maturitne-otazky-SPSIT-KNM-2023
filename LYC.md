@@ -16,8 +16,10 @@ pojmy informácia, správa, kybernetika, kódovanie, základné charakteristiky 
 - **Entropia** je miera neistoty alebo náhodnosti v informácii. Vyjadruje, koľko informácii je obsiahnutých v danej správe.
 - **Redundancia** sa vzťahuje na opakovanie alebo nadbytočnosť informácie v správe. Výhodou je vloženie dodatočných informácií, aby sa minimalizoval vplyv chýb alebo strát pri prenose alebo spracovaní, lepšia čitateľnosť, možnosť opravy a obnovenia informácie v prípade straty. Nevýhodou je väčšia veľkosť a náročnosť správy a spracovania.
 - **Vzorec pre výpočet entropie**: H = -∑(P(x) * log2(P(x)))
-  - H predstavuje entropiu, P(x) je pravdepodobnosťou výskytu hodnoty x, ∑ je suma, teda sčítanie pre všetky hodnoty x
-  - výledná entropia je vyjadrená v bitoch a predstavuje mieru informačného obsahu alebo náhodnosti v danom systéme.
+  - **H** predstavuje entropiu
+  - **P(x)** je pravdepodobnosťou výskytu hodnoty x
+  - **∑** je suma, teda sčítanie pre všetky hodnoty x
+  - výledná entropia je vyjadrená v **bitoch** a predstavuje mieru informačného obsahu alebo náhodnosti v danom systéme.
 - **Generácia počítačov** sa zvyčajne delí na päť generácií počítačov:
   - **1. Generácia**: používali elektronky a reléové obvody na spracovanie informácií, boli veľké, drahé a mali obmedzený výkon (napr. ENIAC)
   - **2. Generácia**: používali sa tranzistory miesto elektroniek, čo zvýšilo výkon, spoľahlivosť a zmenšilo veľkosť počítačov (napr. IBM 1401)
