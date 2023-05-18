@@ -1,4 +1,4 @@
-# Procesorové systémy - štruktúra procesorov x86
+# 2. Procesorové systémy - štruktúra procesorov x86
 procesor, CPU, FPU, GPU, DSP, radič, registre, inštrukcia, inštrukčná sada, frekvencia..., rozdelenie procesorov podľa rôznych kritérií, štruktúra procesorov x86, výroba procesorov.
 
 - **Procesorové systémy** tvoria jadro počítača a sú zodpovedné za spracovanie dát a vykonávanie inštrukcií.
@@ -41,4 +41,4 @@ procesor, CPU, FPU, GPU, DSP, radič, registre, inštrukcia, inštrukčná sada,
   - **Montáž a balenie**: Montujú sa na keramické alebo plastové puzdro a balia sa
   - **Testovanie hotových procesorov**: Konečné testovanie funkčnosti, výkonu
 
-[<- Predošlá Stránka](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC/)  [Ďaľšia Stránka ->](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC3/)
+[1](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC/) | [3](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC3/) | [4](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC4/) | [5](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC5/)
