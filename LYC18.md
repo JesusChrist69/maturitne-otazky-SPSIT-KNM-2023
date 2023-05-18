@@ -8,9 +8,12 @@ druhy cyklov, všeobecné tvary (syntax), vlastnosti a rozdiely medzi nimi, poro
 
 ### Syntax
 - **For** cyklus:
-   - ```for (inicializácia; podmienka; krok) {
+   -
+   ```
+   for (inicializácia; podmienka; krok) {
    // kód na opakovanie
-   }```
+   }
+   ```
  
 - **While** cyklus
   -
@@ -21,9 +24,11 @@ druhy cyklov, všeobecné tvary (syntax), vlastnosti a rozdiely medzi nimi, poro
   ```
   
 - **Do-While** cyklus
-  - ```do {
+  - 
+  ```do {
   // kód na opakovanie
-  } while (podmienka);```
+  } while (podmienka);
+  ```
 
 ### Vlastnosti a rozdiely medzi cyklami
 - **For** cyklus: Určený pre opakovanie s pevne stanoveným počtom iterácií. Je vyhodnotený pred každou iteráciou, môže mať inicializačnú časť, podmienku a krok iterácie.
