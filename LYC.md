@@ -1,5 +1,5 @@
 # 1. Vzťah technických a organizačných prostriedkov:
-## pojmy informácia, správa, kybernetika, kódovanie, základné charakteristiky informácie, spôsoby spracovania informácií, druhy a časti informácií, entropia a redundancia, vzorec pre výpočet entropie, výhody a nevýhody redundancie, generácie počítačov.
+pojmy informácia, správa, kybernetika, kódovanie, základné charakteristiky informácie, spôsoby spracovania informácií, druhy a časti informácií, entropia a redundancia, vzorec pre výpočet entropie, výhody a nevýhody redundancie, generácie počítačov.
 
 - **Informácia** je správa alebo údaj, ktorý nesie nejaký význam pre prijímateľa. Môže byť vo forme obrazu, zvuku, textu atď.
 - **Správa** je špecifická forma informácie, ktorá je určená na komunikáciu medzi prijímateľom a odosielateľom. Môže byť písomná, ústna alebo elektronická.
