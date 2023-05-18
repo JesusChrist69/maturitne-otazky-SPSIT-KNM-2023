@@ -25,7 +25,8 @@ druhy cyklov, všeobecné tvary (syntax), vlastnosti a rozdiely medzi nimi, poro
   
 - **Do-While** cyklus
   - 
-  ```do {
+  ```
+  do {
   // kód na opakovanie
   } while (podmienka);
   ```
