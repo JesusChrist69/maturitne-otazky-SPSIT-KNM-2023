@@ -24,3 +24,5 @@ pojmy informácia, správa, kybernetika, kódovanie, základné charakteristiky 
   - **3. Generácia**: použitie integrovaných obvodov (IC), ktoré umožnili väčšiu hustotu a kompaktnosť obvodov. Výsledok bol výrazné zvýšenie výkonu a zníženie nákladov. (napr. IBM System/360)
   - **4. Generácia**: priniesla vznik mikroprocesorov, tie umožnili integrovať viac funkcií do jedného čipu, čo viedlo k vzniku osobných počítačov a iných kompaktných systémov. (napr. Apple II.)
   - **5. Generácia**: súčasné moderné počítače
+
+[Ďaľšia Stránka ->](https://jesuschrist69.github.io/maturitne-otazky-SPSIT-KNM-2023/LYC2/)
